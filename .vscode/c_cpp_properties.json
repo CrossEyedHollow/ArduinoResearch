@@ -12,7 +12,8 @@
                 "${workspaceRoot}",
                 "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\**",
                 "C:\\Program Files (x86)\\Arduino\\libraries\\**",
-                "C:\\Users\\ayron\\Documents\\Arduino\\libraries\\**"
+                "C:\\Users\\ayron\\Documents\\Arduino\\libraries\\**",
+                "C:\\Users\\llyubomi\\OneDrive - HeidelbergCement Group\\Documents\\Arduino\\libraries\\**"
             ],
             "forcedInclude": [
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"

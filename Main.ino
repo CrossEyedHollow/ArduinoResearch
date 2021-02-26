@@ -1,4 +1,5 @@
 #include "SquareSignalGenerator.cpp"
+#include <thread>
 
 void setup() 
 {
